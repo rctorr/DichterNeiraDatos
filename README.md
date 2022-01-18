@@ -1,4 +1,4 @@
-## Procesamiento de Datos con Python 2020
+## Procesamiento de Datos con Python 2022 para Dichter & Neira
 
 ### OBJETIVO 
 
